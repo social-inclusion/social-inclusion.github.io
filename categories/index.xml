@@ -10,5 +10,23 @@
 	<atom:link href="https://social-inclusion.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Features</title>
+      <link>https://social-inclusion.github.io/categories/features/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://social-inclusion.github.io/categories/features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tranquilpeak</title>
+      <link>https://social-inclusion.github.io/categories/tranquilpeak/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://social-inclusion.github.io/categories/tranquilpeak/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
